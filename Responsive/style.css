@@ -94,7 +94,7 @@ DIV,UL,OL /* Left */
 }
 
 /* Responsive */
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 600px) {
   body {
     margin: 0 !important;
     padding: 0 !important;
